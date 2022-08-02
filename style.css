@@ -22,6 +22,7 @@ body {
     align-items: center;
     background-color: var(--lightGray);
 }
+
 .container {
     background-color: var(--white);
     border-radius: 25px;
@@ -36,7 +37,7 @@ img {
     padding: 1rem;
 }
 
-section {
+.content {
     padding: 0 2rem .75rem 2rem;
     text-align: center;
 }
